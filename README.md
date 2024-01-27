@@ -20,7 +20,7 @@ Apesar de um projeto simples, tentei abordar tudo que aprendi nesta fase.
 Roteiro de teste:
 
 
-O codigo esta no github
+O codigo esta no github na MASTER
 
 https://github.com/gabrielfellone/PosTechFase2
 
